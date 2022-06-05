@@ -1,6 +1,6 @@
 # Hey 👋 I'm Dan
  
-About me:
+## About me
 
 - Software Developer and Infrastructure Engineer
 
