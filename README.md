@@ -1,4 +1,4 @@
-# Hey 👋 I'm Dan Phillips
+# Hey 👋 I'm Dan
  
 About me:
 
