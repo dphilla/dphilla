@@ -9,7 +9,7 @@
 - WebAssembly
 - Software Infrastructure/Dev Tools
 - Ruby, Python, Node.js DX
-- Recovering Theoretical Linguist
+- Recovering Academic Linguist
 
 ## Contact
 
