@@ -1,15 +1,13 @@
-# Hey 👋 I'm Dan
- 
 ## About me
 
-- Software Developer and Infrastructure Engineer
+- Software/Infrastructure/Systems Engineer
 
 ## Interests
 
 - WebAssembly
-- Software Infrastructure/Dev Tools
-- Ruby, Python, Node.js DX
-- Generative Linguistics (Recovering Academic)
+- Software Infrastructure, Dev Tools, Distributed Computing
+- Rust, Golang
+- Ruby, Python, Node.js, JavaScript DX
 
 ## Contact
 
