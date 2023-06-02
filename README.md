@@ -6,8 +6,8 @@
 
 - WebAssembly
 - Software Infrastructure, Dev Tools, Distributed Computing
-- Rust, Golang, 
-- DX,
+- Rust, Golang
+- DX
 - ML, mostly NLP
 
 ## Contact
