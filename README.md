@@ -4,11 +4,10 @@
 
 ## Interests
 
-- WebAssembly
+- WebAssembly, Virtualization
 - Software Infrastructure, Dev Tools, Distributed Computing
-- Rust, Golang
 - DX
-- ML, mostly NLP
+- ML, mostly NLP, a bit of comp vision
 
 ## Contact
 
